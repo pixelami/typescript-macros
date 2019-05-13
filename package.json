@@ -29,5 +29,8 @@
     "packages/interop-export-macros.tsmacro",
     "examples/*",
     "docs"
-  ]
+  ],
+  "engines": {
+    "node": ">=11.13.0"
+  }
 }
