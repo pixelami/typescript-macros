@@ -16,6 +16,7 @@
     "cz-moe": "^0.0.2",
     "jest": "^23.6.0",
     "lerna": "^3.5.0",
+    "microbundle": "^0.11.0",
     "ts-jest": "^23.10.5",
     "tslint": "^5.11.0",
     "tslint-immutable": "^5.0.0",
